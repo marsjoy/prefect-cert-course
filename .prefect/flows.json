@@ -1,0 +1,3 @@
+{
+  "weather-superflow": "flows/weather.py:weather_superflow"
+}
